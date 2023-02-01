@@ -14,5 +14,4 @@
 
 
 <center>
-<a href=https://datapub.jcli.site>My Blog</a>
 </center>
